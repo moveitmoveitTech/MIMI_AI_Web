@@ -1,0 +1,2 @@
+command: yarn start
+go to http://localhost:5173/yolov5-tfjs/
