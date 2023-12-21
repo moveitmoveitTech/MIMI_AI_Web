@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AndrewWong1209/MIMI_React.git"
+    "url": "git+https://github.com/moveitmoveitTech/MIMI_AI_Web.git"
   },
   "keywords": [
     "object detection",
@@ -27,7 +27,7 @@
   "bugs": {
     "url": "https://github.com/Hyuto/yolov5-tfjs/issues"
   },
-  "homepage": "https://andrewwong1209.github.io/MIMI_React/",
+  "homepage": "https://moveitmoveitTech.github.io/MIMI_AI_Web/",
   "dependencies": {
     "@tensorflow/tfjs": "^4.1.0",
     "normalize.css": "^8.0.1",
